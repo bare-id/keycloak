@@ -24,10 +24,9 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Properties;
 
-import freemarker.template.SimpleDate;
-
 import org.keycloak.theme.TemplatingUtil;
 
+import freemarker.template.SimpleDate;
 import freemarker.template.SimpleNumber;
 import freemarker.template.SimpleScalar;
 import freemarker.template.TemplateMethodModelEx;
